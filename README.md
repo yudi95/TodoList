@@ -1,3 +1,22 @@
+## Descrição do projeto TODOList
+
+Uma abordagem inicial em react e firebase realtime Database, aonde eu implementei um 'lista de "todo's" que guarda os dados no firebase. Existem as funcionalidades de adicionar, remover e editar os "todo's".
+
+Este projeto foi feito usando-se React. O projeto foi iniciado pelo [Create React App](https://github.com/facebookincubator/create-react-app).
+No projeto foi usado o [React-tabs](https://github.com/reactjs/react-tabs):
+ ```
+ $ npm install --save react-tabs
+ ```
+SDK do [firebase](https://firebase.google.com/docs/web/setup?hl=eng):
+```
+$ npm install --save firebase
+```
+e Para dar upload no projeto foi utilizado o [gh-pages] (https://github.com/gitname/react-gh-pages):
+```
+$ npm install gh-pages --save-dev
+```
+
+## Descrição gerada automaticamente
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
