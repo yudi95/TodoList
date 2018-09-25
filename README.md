@@ -15,6 +15,10 @@ e Para dar upload no projeto foi utilizado o [gh-pages] (https://github.com/gitn
 ```
 $ npm install gh-pages --save-dev
 ```
+Por fim, para iniciar o aplicativo:
+```
+$ npm start
+```
 
 ## Descrição gerada automaticamente
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
